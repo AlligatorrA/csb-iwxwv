@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alligatorra.github.io/csb-iwxwv/static/css/main.5e8bb113.chunk.css",
+    "main.js": "https://alligatorra.github.io/csb-iwxwv/static/js/main.930d85c4.chunk.js",
+    "main.js.map": "https://alligatorra.github.io/csb-iwxwv/static/js/main.930d85c4.chunk.js.map",
+    "runtime-main.js": "https://alligatorra.github.io/csb-iwxwv/static/js/runtime-main.3efd1f20.js",
+    "runtime-main.js.map": "https://alligatorra.github.io/csb-iwxwv/static/js/runtime-main.3efd1f20.js.map",
+    "static/js/2.abd43898.chunk.js": "https://alligatorra.github.io/csb-iwxwv/static/js/2.abd43898.chunk.js",
+    "static/js/2.abd43898.chunk.js.map": "https://alligatorra.github.io/csb-iwxwv/static/js/2.abd43898.chunk.js.map",
+    "index.html": "https://alligatorra.github.io/csb-iwxwv/index.html",
+    "static/css/main.5e8bb113.chunk.css.map": "https://alligatorra.github.io/csb-iwxwv/static/css/main.5e8bb113.chunk.css.map",
+    "static/js/2.abd43898.chunk.js.LICENSE.txt": "https://alligatorra.github.io/csb-iwxwv/static/js/2.abd43898.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3efd1f20.js",
+    "static/js/2.abd43898.chunk.js",
+    "static/css/main.5e8bb113.chunk.css",
+    "static/js/main.930d85c4.chunk.js"
+  ]
+}
